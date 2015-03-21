@@ -7,8 +7,6 @@
 #include <cstdlib>
 #include <sys/time.h>
 
-// demo 1: the input graph is a simple connected undirected graph.
-
 /*
 * Each vertex has a status.
 * White: not decided
